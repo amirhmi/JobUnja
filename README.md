@@ -3,5 +3,5 @@ Jobunja is UT Internet Engineering Course Spring2019 Project. It is a web applic
 
 This project's backend is developed in Java and frontend is developed with react. Using kubernetes for deployment and container orchestration.
 
-<img src="https://image.freepik.com/free-vector/looking-talent-background_23-2147987281.jpg" width="900" height="600"/>
+<img src="https://image.freepik.com/free-vector/looking-talent-background_23-2147987281.jpg" width="600" height="600"/>
 
